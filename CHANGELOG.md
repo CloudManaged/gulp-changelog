@@ -1,15 +1,25 @@
+Changelog
+=========
 
+%%version%% (unreleased)
+------------------------
 
-# Changelog
+New
+~~~
 
-## Unreleased version
+- Add proper readme info. [Israel Sotomayor]
 
-## v1.0.0 (2014-10-07)
+Changes
+~~~~~~~
 
-### New
+- Add patch version !ver. [Israel Sotomayor]
 
-* Uploading files for initial development phase.
+Other
+~~~~~
 
->   Add  gulp tasks, package.json, gitignore and requirements files
+- Merge pull request #1 from CloudManaged/wip/first-usable-version.
+  [Israel Sotomayor]
+
+  Wip/first usable version
 
 

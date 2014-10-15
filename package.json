@@ -1,6 +1,6 @@
 {
   "name": "gulp-changelog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp tasks to bump the package version, create tag, commit and create change log file in one step.",
   "repository": {
     "type": "git",
